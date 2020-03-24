@@ -3,4 +3,6 @@
     <string name="correct">This is Correct</string>
     <string name="incorrect">This is false</string>
     <string name="launcher">standard android launcher</string>
+    <string name="check">Check</string>
+    <string name="quiz">Quiz</string>
 </resources>
